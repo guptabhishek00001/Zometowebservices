@@ -151,7 +151,7 @@ public class MyFragment extends Fragment {
                 //user name and password to the server using setRequest method, eg2
                 //we can also tell whether we want json or xml to the server.eg3
                 //We can also send API keys to the server for verification purspose
-                con.setRequestProperty("user-key","f8fae1900b82dcd6ff4b324b33cef694");
+                con.setRequestProperty("user-key","PASTE YOUR API KEY HERE");
 
 
                 is = con.getInputStream();
